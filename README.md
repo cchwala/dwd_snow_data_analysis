@@ -1,4 +1,4 @@
-# Analysis of snow daily snow depth data from DWD
+# Analysis of daily snow depth data from DWD
 
 This repository provides a notebook which contains:
 1. A collection of small simple functions to download daily DWD station data from opendata.dwd.de (quickly developed to not have to relly on the nice but a bit complex package `wetterdienst` which unfortunately does not play nice with recent pandas versions anymore)
